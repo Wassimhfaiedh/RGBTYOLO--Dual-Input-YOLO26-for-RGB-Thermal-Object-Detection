@@ -296,8 +296,8 @@ This keeps the detection objective aligned with the YOLO26 detection head instea
 # Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/RGBTYOLO.git
-cd RGBTYOLO
+git clone https://github.com/Wassimhfaiedh/RGBTYOLO--Dual-Input-YOLO26-for-RGB-Thermal-Object-Detection.git
+cd RGBTYOLO--Dual-Input-YOLO26-for-RGB-Thermal-Object-Detection
 python -m venv .venv
 ```
 
@@ -333,7 +333,7 @@ The trained checkpoint is hosted separately because model weights are excluded f
 
 ### Final RGBTYOLO P5 Fusion Model
 
-**[Download `rgbtyolo_v1.pt` from Google Drive](YOUR_GOOGLE_DRIVE_LINK_HERE)**
+**[Download `rgbtyolo_v1.pt` from Google Drive](https://drive.google.com/file/d/1ZxKg96OPuZzuJ24izw6-iBfCfLGSSDpf/view?usp=sharing)**
 
 After downloading:
 
@@ -523,7 +523,7 @@ RGBTYOLO/
 @software{rgbtyolo2026,
   title = {RGBTYOLO: Dual-Input YOLO26 with P5 Cross-Modal Feature Fusion for RGB-Thermal Object Detection},
   year  = {2026},
-  url   = {YOUR_GITHUB_REPOSITORY_URL}
+  url   = {https://github.com/Wassimhfaiedh/RGBTYOLO--Dual-Input-YOLO26-for-RGB-Thermal-Object-Detection.git}
 }
 ```
 
