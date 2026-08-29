@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "rgbtyolo"
+version = "1.1.0"
+description = "Dual-input YOLO26 RGB-Thermal object detection with P5 feature fusion"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "numpy>=1.26",
+    "opencv-python>=4.9",
+    "torch>=2.2",
+    "ultralytics>=8.3",
+]
+
+[tool.setuptools.packages.find]
+include = ["rgbtyolo*"]
