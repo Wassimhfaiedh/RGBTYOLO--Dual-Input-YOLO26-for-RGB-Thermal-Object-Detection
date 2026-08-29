@@ -516,19 +516,6 @@ RGBTYOLO/
 └── README.md
 ```
 
----
-## Citation
-
-```bibtex
-@software{rgbtyolo2026,
-  title = {RGBTYOLO: Dual-Input YOLO26 with P5 Cross-Modal Feature Fusion for RGB-Thermal Object Detection},
-  year  = {2026},
-  url   = {https://github.com/Wassimhfaiedh/RGBTYOLO--Dual-Input-YOLO26-for-RGB-Thermal-Object-Detection.git}
-}
-```
-
----
-
 <p align="center">
   <b>RGBTYOLO — RGB-Thermal Object Detection with YOLO26 P5 Feature Fusion</b>
 </p>
